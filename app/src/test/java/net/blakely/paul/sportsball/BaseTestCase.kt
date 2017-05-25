@@ -1,4 +1,4 @@
-package co.joincake.cake
+package net.blakely.paul.sportsball
 
 import android.support.annotation.CallSuper
 import io.reactivex.android.plugins.RxAndroidPlugins

@@ -1,4 +1,4 @@
-package co.joincake.cake.common
+package net.blakely.paul.sportsball.common
 
 import io.reactivex.disposables.CompositeDisposable
 

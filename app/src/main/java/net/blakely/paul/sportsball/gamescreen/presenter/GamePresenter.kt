@@ -1,6 +1,6 @@
 package net.blakely.paul.sportsball.gamescreen.presenter
 
-import co.joincake.cake.common.BasePresenter
+import net.blakely.paul.sportsball.common.BasePresenter
 import net.blakely.paul.sportsball.gamescreen.target.GameTarget
 import net.blakely.paul.sportsball.preferences.PreferencesManager
 import javax.inject.Inject

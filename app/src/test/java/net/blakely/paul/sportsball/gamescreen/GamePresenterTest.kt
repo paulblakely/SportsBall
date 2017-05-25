@@ -1,6 +1,6 @@
 package net.blakely.paul.sportsball.gamescreen
 
-import co.joincake.cake.PresenterTestCase
+import net.blakely.paul.sportsball.PresenterTestCase
 import com.nhaarman.mockito_kotlin.any
 import com.nhaarman.mockito_kotlin.verify
 import com.nhaarman.mockito_kotlin.whenever

@@ -1,6 +1,6 @@
-package co.joincake.cake
+package net.blakely.paul.sportsball
 
-import co.joincake.cake.common.BasePresenter
+import net.blakely.paul.sportsball.common.BasePresenter
 import org.mockito.Mockito
 
 
